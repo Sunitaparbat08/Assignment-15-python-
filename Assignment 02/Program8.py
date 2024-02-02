@@ -9,3 +9,5 @@ if ord(char)%2 == 0:
     print(char)
 else:
     print("No Output")  
+
+
