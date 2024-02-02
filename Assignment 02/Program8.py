@@ -7,3 +7,5 @@
 char = input("Enter the Character:")
 if ord(char)%2 == 0:
     print("yes")
+else:
+    print("No Output")  

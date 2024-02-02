@@ -7,6 +7,8 @@
 
 char1 = input("Enter the character1:")
 char2 = input("Enter the Character2:")
-if ord(char1)%2!=0 and ord(char2)%2!=0:
-    add = char1+char2
+a = ord(char1)
+b = ord(char2)
+if a%2!=0 and b%2!=0:
+    add = a+b
     print(add)
