@@ -6,6 +6,6 @@
 
 char = input("Enter the Character:")
 if ord(char)%2 == 0:
-    print("yes")
+    print(char)
 else:
     print("No Output")  
